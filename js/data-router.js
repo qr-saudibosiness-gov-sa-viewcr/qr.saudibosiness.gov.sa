@@ -1,6 +1,7 @@
 (function () {
   var routes = {
-    "YBbOaTRUT5SuvKEkctoE+g==": "7014140366.json"
+    "YBbOaTRUT5SuvKEkctoE+g==": "7014140366.json",
+    "Hif6vz0mUrzdt18YW0fOjQ==": "7028250558.json",
   };
 
   function rawQueryParam(name) {
